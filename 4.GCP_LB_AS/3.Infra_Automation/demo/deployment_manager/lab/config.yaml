@@ -1,0 +1,7 @@
+imports:
+- path: autonetwork.jinja
+- path: firewall.jinja
+
+resources:
+  name: mynetwork
+  type: autonetwork.jinja
